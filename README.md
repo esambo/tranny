@@ -8,7 +8,9 @@ Tranny provides a simple DSL to transform a supplied hash with an arbitrary stru
 Support
 =======
 
-Should work for both 1.8 and 1.9 rubies.
+Should work for 1.8, 1.9 and 2.0 rubies.
+
+[![Build Status](https://travis-ci.org/joshkrueger/tranny.png)](https://travis-ci.org/joshkrueger/tranny)
 
 Install
 =======
